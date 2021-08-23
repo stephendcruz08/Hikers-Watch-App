@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/hind_vadodara_light</item>
+        <item>@font/inknut_antiqua_semibold</item>
+        <item>@font/lemon</item>
+        <item>@font/rambla_bold</item>
+    </array>
+</resources>
